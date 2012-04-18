@@ -1,4 +1,4 @@
-lexique-site
+iMayotte-Lexique-Lite
 ============
 
-site de dictionnaire mahorais/fraçais
+version Lite de iMayotte Lexique
