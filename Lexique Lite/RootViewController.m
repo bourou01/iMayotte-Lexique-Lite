@@ -10,6 +10,11 @@
 #import <QuartzCore/QuartzCore.h>
 
 
+
+
+
+#define PRETTY_BLUE [UIColor colorWithRed:51.0/255.0 green:102.0/255.0 blue:153.0/255.0 alpha:1.0]
+
 @implementation RootViewController
 
 @synthesize savedSearchTerm = savedSearchTerm_;
@@ -161,7 +166,7 @@
  */
 - (void)fetchedResultsController:(NSFetchedResultsController *)fetchedResultsController configureCell:(UITableViewCell *)theCell atIndexPath:(NSIndexPath *)theIndexPath
 {
-    theCell.textLabel.textColor = [UIColor blueColor];
+    theCell.textLabel.textColor = PRETTY_BLUE;
     theCell.detailTextLabel.textColor = [UIColor orangeColor];
     
     // your cell guts here
@@ -228,7 +233,7 @@
     
     self.navigationController.navigationBar.barStyle = UIBarStyleBlack;
     self.navigationController.navigationBar.translucent = YES;
-    self.navigationController.navigationBar.tintColor = [UIColor blueColor];
+    self.navigationController.navigationBar.tintColor = PRETTY_BLUE;
     // customize the back button
     UIBarButtonItem *backButton = [[UIBarButtonItem alloc] initWithTitle:@"Retour" style:UIBarButtonItemStylePlain target:nil action:nil];
     self.navigationItem.backBarButtonItem = backButton;
@@ -263,7 +268,7 @@
     searchBar.autoresizingMask = (UIViewAutoresizingFlexibleWidth);
     searchBar.autocorrectionType = UITextAutocorrectionTypeNo;
     
-    searchBar.tintColor = [UIColor blueColor];
+    searchBar.tintColor = PRETTY_BLUE;
     searchBar.translucent = YES;
     
     searchBar.placeholder = @"Chercher";
