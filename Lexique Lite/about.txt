@@ -1,0 +1,23 @@
+
+
+<title>iMayotte Lexique</title>
+<_image>Icon.png</_image>
+
+<subtitle>Version Complète</subtitle>
+<_bullet>La version complète existe maintenant sur l'AppStore</_bullet>
+
+Dans cette nouvelle version de iMayotte Lexique, vous avez en plus de simples mot, des expressions rangées par catégories. 
+
+Et le plus extraordinaire, c'est la possibilité de synchroniser l'application avec le site 'Parlons Mahorais'
+à l'adresse
+ <_bullet>www.jugemento.com/lexique</_bullet> 
+ qui est TRES régulièrement mise à jour,
+des nouvelles expressions sont ajoutées tout les jours. 
+
+Donc profitez de plus de 7900 mots et expressions pour parler Mahorais.
+
+<subtitle>Utiliser iMayotte Lexique</subtitle>
+<_bullet>L'intégration de Facebook dans iMayotte Lexique permet de Partager des définitions en les publiant dans son mur.</_bullet>
+
+<subtitle>Contacter</subtitle>
+<_bullet>www.jugemento.com/lexique</_bullet>

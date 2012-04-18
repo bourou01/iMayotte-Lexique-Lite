@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="878" systemVersion="11C74" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="DictionaryF" representedClassName="DictionaryF" syncable="YES">
+        <attribute name="francais" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mahorais" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uppercaseFirstLetterOfName" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DictionaryM" representedClassName="DictionaryM" syncable="YES">
+        <attribute name="francais" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mahorais" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uppercaseFirstLetterOfName" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DictionaryF" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="DictionaryM" positionX="160" positionY="192" width="128" height="90"/>
+    </elements>
+</model>
