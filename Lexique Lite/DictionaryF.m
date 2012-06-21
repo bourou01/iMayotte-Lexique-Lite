@@ -29,7 +29,6 @@
     [self didAccessValueForKey:@"uppercaseFirstLetterOfName"];
     
     return stringToReturn;
-    
 }
 
 
